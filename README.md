@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Yichen Wang.
-- 👀 I’m interested in web and mobile app (iOS and Android) development.
+- 👋 Hi, I’m Thomas.
 - 📫 How to reach me: yichenwang0@gmail.com
 
 <!---
